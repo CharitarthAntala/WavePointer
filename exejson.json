@@ -1,0 +1,137 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "D:/BE/SEM_8/Project/WavePointer/src/start.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/BE/SEM_8/Project/WavePointer/src/controller.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/BE/SEM_8/Project/WavePointer/src/gesture_encodings.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/BE/SEM_8/Project/WavePointer/src/hand_recognition.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/BE/SEM_8/Project/WavePointer/src/multi_hand_label.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/BE/SEM_8/Project/WavePointer/src/WavePointer.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/BE/SEM_8/Project/WavePointer/src/calib_images;calib_images/"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "mediapipe"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "gevent"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "setuptools"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "greenlet"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "Matplotlib"
+  },
+  {
+   "optionDest": "collect_submodules",
+   "value": "Matplotlib"
+  },
+  {
+   "optionDest": "collect_submodules",
+   "value": "mediapipe"
+  },
+  {
+   "optionDest": "collect_submodules",
+   "value": "pkg_resources"
+  },
+  {
+   "optionDest": "collect_submodules",
+   "value": "pycairo"
+  },
+  {
+   "optionDest": "collect_data",
+   "value": "mediapipe"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/rdr60/AppData/Local/Programs/Python/Python310/Lib/site-packages/mediapipe/modules;modules/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
